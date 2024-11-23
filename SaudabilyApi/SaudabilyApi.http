@@ -1,0 +1,7 @@
+POST http://localhost:44300/api/whatsapp/
+Content-Type: application/x-www-form-urlencoded
+
+{
+    "Body": "saúde",
+    "From": "whatsapp:+5511999999999"
+}

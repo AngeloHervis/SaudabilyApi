@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.SaudabilyApi/.idea/encodings.xml
+/.idea/.idea.SaudabilyApi/.idea
+.idea/config/applicationhost.config
